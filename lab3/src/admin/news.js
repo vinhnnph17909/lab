@@ -80,7 +80,7 @@ const news = {
                           <a href="/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                          <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
+                          <a href="/edit" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                           <a href="#" class="text-indigo-600 hover:text-indigo-900">Delete</a>
@@ -118,7 +118,7 @@ const news = {
                           <a href="/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                          <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
+                          <a href="/edit" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                           <a href="#" class="text-indigo-600 hover:text-indigo-900">Delete</a>
@@ -155,7 +155,7 @@ const news = {
                           <a href="/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                          <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
+                          <a href="/edit" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                           <a href="#" class="text-indigo-600 hover:text-indigo-900">Delete</a>
@@ -193,7 +193,7 @@ const news = {
                           <a href="/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                          <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
+                          <a href="/edit" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                           <a href="#" class="text-indigo-600 hover:text-indigo-900">Delete</a>
@@ -233,13 +233,13 @@ const news = {
                           <a href="/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                          <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
+                          <a href="/edit" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                         </span>
                         <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                           <a href="#" class="text-indigo-600 hover:text-indigo-900">Delete</a>
                         </span>
                       </td>
-                    </nav>>
+                    </nav>
                   </tr>
                 </tbody>
               </table>
