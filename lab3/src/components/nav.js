@@ -6,7 +6,7 @@ const Nav = {
                 <li><a href="/" class="block py-3 px-4 text-white hover:bg-blue-500">Trang chủ</a></li>
                 <li><a href="#" class="block py-3 px-4 text-white hover:bg-blue-500">Tuyển sinh</a></li>
                 <li><a href="#" class="block py-3 px-4 text-white hover:bg-blue-500">Chương Trình đào tạo</a></li>
-                <li><a href="/dashboard" class="block py-3 px-4 text-white hover:bg-blue-500">admin</a></li>
+                <li><a href="/admin/dashboard" class="block py-3 px-4 text-white hover:bg-blue-500">admin</a></li>
                 <li><a href="/signin" class="block py-3 px-4 text-white hover:bg-blue-500">Đăng nhập</a></li>
                 <li><a href="/signup" class="block py-3 px-4 text-white hover:bg-blue-500">Đăng ký</a></li>
 

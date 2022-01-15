@@ -28,13 +28,13 @@ router.on({
     "/signup": () => {
         print(signup.render());
     },
-    "/dashboard": () => {
+    "/admin/dashboard": () => {
         print(dashboard.render());
     },
-    "/news": () => {
+    "/admin/news": () => {
         print(news.render());
     },
-    "/add": () => {
+    "/admin/news/add": () => {
         print(addnews.render());
     },
     "/edit": () => {
